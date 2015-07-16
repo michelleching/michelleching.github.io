@@ -1,3 +1,5 @@
-$('#bioBtn').click(function() {
-  alert( "Handler for .click() called." );
+$('#bioBtn').toggle(function() {
+  $('#bioSection').show();
+}, function() {
+  $('#bioSection').hide();
 });
