@@ -69,3 +69,7 @@ a:hover {
   transition: 0.2s all;
   -webkit-transform: scale(1.2);
 }
+
+#bioSection {
+  visibility: hidden
+}
