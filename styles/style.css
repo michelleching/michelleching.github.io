@@ -169,3 +169,13 @@ h5 {
   color: #CCCCCC;
   transition: 0.05 all;
 }
+
+#bioSection img {
+  width: 100px;
+  height: auto;
+  border-radius: 50%;
+  position: absolute;
+  top: -30px;
+  padding: 0px;
+  margin: 0px;
+}
